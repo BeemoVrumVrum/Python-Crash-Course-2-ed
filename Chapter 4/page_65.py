@@ -14,3 +14,4 @@ valores_meio = valores[quantidade_valores-1:quantidade_valores+2]
 
 print(f'Os primeiros 3 itens na lista são: {valores[:3]}')
 print(f'Os 3 itens no meio da lista são: {valores_meio}')
+print(f'Os 3 últimos itens da lista são: {valores[-3:]}')
