@@ -51,3 +51,5 @@ for prato in pratos_amigo:
     if pratos_amigo[-1] == prato:
         virgula = '.'
     print(f'{prato}{virgula}', end= '')
+
+print("\n:)")
